@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_PT">
+<TS version="2.1" language="pt_PT">
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
@@ -1613,7 +1613,7 @@ Deseja apagar de qualquer forma?</translation>
     <message>
         <location line="+407"/>
         <source>Recent Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Lugares recentes</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+160"/>
@@ -1644,57 +1644,57 @@ Deseja apagar de qualquer forma?</translation>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-4"/>
         <source>Find Directory</source>
-        <translation type="unfinished">Procurar Pasta</translation>
+        <translation>Encontrar diretório</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Show </source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar </translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.ui"/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Forward</source>
-        <translation type="unfinished">Seguinte</translation>
+        <translation>Avançar</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+1970"/>
         <source>New Folder</source>
-        <translation type="unfinished">Nova Pasta</translation>
+        <translation>Nova pasta</translation>
     </message>
     <message>
         <location line="-1963"/>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova pasta</translation>
     </message>
     <message>
         <location line="+656"/>
         <location line="+38"/>
         <source>&amp;Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Es&amp;colher</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qsidebar.cpp" line="+418"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-687"/>
         <location line="+652"/>
         <source>File &amp;name:</source>
-        <translation type="unfinished">&amp;Nome do Ficheiro:</translation>
+        <translation>&amp;Nome do arquivo:</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.ui"/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Look in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar em:</translation>
     </message>
     <message>
         <location/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Create New Folder</source>
-        <translation type="unfinished">Criar Nova Pasta</translation>
+        <translation>Criar nova pasta</translation>
     </message>
 </context>
 <context>
@@ -3745,6 +3745,81 @@ Deseja apagar de qualquer forma?</translation>
         <location/>
         <source>bottom margin</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QPlatformTheme</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvar</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>Salvar tudo</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Abrir</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation>&amp;Sim</translation>
+    </message>
+    <message>
+        <source>Yes to &amp;All</source>
+        <translation>Sim p&amp;ara tudo</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <translation>&amp;Nenhum</translation>
+    </message>
+    <message>
+        <source>N&amp;o to All</source>
+        <translation>Nã&amp;o para tudo</translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation>Anular</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Repetir</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Ignorar</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation>Descartar</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Aplicar</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Redefinir</translation>
+    </message>
+    <message>
+        <source>Restore Defaults</source>
+        <translation>Restaurar padrões</translation>
     </message>
 </context>
 <context>
