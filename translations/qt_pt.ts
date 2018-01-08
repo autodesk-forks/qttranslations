@@ -3748,6 +3748,81 @@ Deseja apagar de qualquer forma?</translation>
     </message>
 </context>
 <context>
+    <name>QPlatformTheme</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Salvar</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>Salvar tudo</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Abrir</translation>
+    </message>
+    <message>
+        <source>&amp;Yes</source>
+        <translation>&amp;Sim</translation>
+    </message>
+    <message>
+        <source>Yes to &amp;All</source>
+        <translation>Sim p&amp;ara tudo</translation>
+    </message>
+    <message>
+        <source>&amp;No</source>
+        <translation>&amp;Nenhum</translation>
+    </message>
+    <message>
+        <source>N&amp;o to All</source>
+        <translation>Nã&amp;o para tudo</translation>
+    </message>
+    <message>
+        <source>Abort</source>
+        <translation>Anular</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>Repetir</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Ignorar</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancelar</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation>Descartar</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Ajuda</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>Aplicar</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Redefinir</translation>
+    </message>
+    <message>
+        <source>Restore Defaults</source>
+        <translation>Restaurar padrões</translation>
+    </message>
+</context>
+<context>
     <name>QPluginLoader</name>
     <message>
         <location filename="../src/corelib/plugin/qpluginloader.cpp" line="+24"/>
