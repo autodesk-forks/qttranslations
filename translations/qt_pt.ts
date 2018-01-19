@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_PT">
+<TS version="2.1" language="pt_PT">
 <context>
     <name>MAC_APPLICATION_MENU</name>
     <message>
@@ -1613,7 +1613,7 @@ Deseja apagar de qualquer forma?</translation>
     <message>
         <location line="+407"/>
         <source>Recent Places</source>
-        <translation type="unfinished"></translation>
+        <translation>Lugares recentes</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog_win.cpp" line="+160"/>
@@ -1644,57 +1644,57 @@ Deseja apagar de qualquer forma?</translation>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-4"/>
         <source>Find Directory</source>
-        <translation type="unfinished">Procurar Pasta</translation>
+        <translation>Encontrar diretório</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Show </source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar </translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.ui"/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Forward</source>
-        <translation type="unfinished">Seguinte</translation>
+        <translation>Avançar</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="+1970"/>
         <source>New Folder</source>
-        <translation type="unfinished">Nova Pasta</translation>
+        <translation>Nova pasta</translation>
     </message>
     <message>
         <location line="-1963"/>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nova pasta</translation>
     </message>
     <message>
         <location line="+656"/>
         <location line="+38"/>
         <source>&amp;Choose</source>
-        <translation type="unfinished"></translation>
+        <translation>Es&amp;colher</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qsidebar.cpp" line="+418"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.cpp" line="-687"/>
         <location line="+652"/>
         <source>File &amp;name:</source>
-        <translation type="unfinished">&amp;Nome do Ficheiro:</translation>
+        <translation>&amp;Nome do arquivo:</translation>
     </message>
     <message>
         <location filename="../src/gui/dialogs/qfiledialog.ui"/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Look in:</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar em:</translation>
     </message>
     <message>
         <location/>
         <location filename="../src/gui/dialogs/qfiledialog_wince.ui"/>
         <source>Create New Folder</source>
-        <translation type="unfinished">Criar Nova Pasta</translation>
+        <translation>Criar nova pasta</translation>
     </message>
 </context>
 <context>
